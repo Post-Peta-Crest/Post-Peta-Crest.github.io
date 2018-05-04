@@ -30,6 +30,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+For testing link, [GitHub Sample page](https://post-peta-crest.github.io/sample/).
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Post-Peta-Crest/Post-Peta-Crest.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
