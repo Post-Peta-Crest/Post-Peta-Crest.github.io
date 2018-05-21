@@ -1,4 +1,6 @@
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
+
+theme: jekyll-theme-cayman
 
 title: JST CREST Post-Petascale Software Project
 
