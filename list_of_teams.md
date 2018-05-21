@@ -1,23 +1,4 @@
----
-title: Development of System Software Technologies  
-       for post-Peta Scale High Performance Computing
----
-
-# Project Overview 
-
-## Outline of Research Area
-
-The research area aims at developing system software technologies as well as related systems to be used for high performance computing in the post generations of the Japanese national supercomputer K. Several research and development has been conducted for system software enabling us to exploit maximum efficiency and reliability from supercomputers composed of general purpose many-core processors as well as accelerators including GPGPU form the second half of 2010's to 2020’s.
-
-In addition to the system software such as programming languages, compilers, runtime systems, operation systems, communication middleware, and file systems, application development support systems and ultra-large data processing systems are the targets for research and development. The 14 projects were adopted from 2010 to 2012, and the period of each project is five and half years. The total budget from 2010 to 2017 is about 60M USD.
-
-The projects in post-peta CREST are expected to play a role bridging to post-petascale and exascale computing through system software.
-
-## Collaboration with SPPEXA project
-
-Under the framework of the "Software for Exascale Computing (SPPEXA)" program which is implemented by DFG (Germany), JST (Japan) and ANR(France) agreed to support trilateral projects for high performance computing. Some of post-peta CREST projects have been awarded as a SPPEXA partner supported by JST. 
-
-## List of Research Teams (in order of starting period)
+# List of Teams
 
 * Development of an Eigen-Supercomputing Engine using a Post-Petascale Hierarchical Model (Research Director:  Tetsuya Sakurai / Professor, University of Tsukuba) [2010～2015] ★
 * System Software for Post Petascale Data Intensive Science (Research Director: Osamu Tatebe / Professor, University of Tsukuba) [2010～2015]
@@ -37,11 +18,3 @@ Under the framework of the "Software for Exascale Computing (SPPEXA)" program wh
 
 Note: Project Marked with ★ supported by SPPEXA (extended to 2017)
 
-Link [List of teams](https://post-peta-crest.github.io/list_of_teams.md).
-
-## Research Supervisor
-
-Mitsuhisa Sato, Deputy Project Leader and Team Leader of Architecture Development Team / FLAGSHIP 2020 project, Deputy Director and Team Leader of Programming Environment Research Team,
-RIKEN Center for Computational Science
-
-![OVERVIEW]({{ site.baseurl }}/img/PP-CREST-overview.png)
