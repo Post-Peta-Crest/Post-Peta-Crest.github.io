@@ -3,7 +3,7 @@ title: Development of System Software Technologies
        for post-Peta Scale High Performance Computing
 ---
 
-# Post-peta software CREST project overview --- Bridging to exascale through system software ---
+# Project Overview 
 
 ## Outline of Research Area
 
