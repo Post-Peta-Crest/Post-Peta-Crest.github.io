@@ -10,69 +10,69 @@ JST CREST Post-Petascale software project aimed to establish software technologi
 # Teams and Publishied Software
 ---
 ## Development of an Eigen-Supercomputing Engine using a Post-Petascale Hierarchical Model
-* Teams Description
+* Team Description
 * Published Software
 
 ---
 ## System Software for Post Petascale Data Intensive Science 
-* Teams Description
+* Team Description
 * Published Software
 
 ---
 ## ppOpen-HPC: Open Source Infrastructure for Development and Execution of Large-Scale Scientific Applications on Post-Peta-Scale Supercomputers with Automatic Tuning (AT)
-* Teams Description
+* Team Description
 * Published Software
 
 
 ---
 ## Parallel System Software for Multi-core and Many-core
-* Teams Description
+* Team Description
 * Published Software
 
 ---
 ## Highly Productive, High Performance Application Frameworks for Post Petascale Computing
-* Teams Description
+* Team Description
 * Published Software
 
 ---
 ## Development of a Numerical Library based on Hierarchical Domain Decomposition for Post Petascale Simulation
-* Teams Description
+* Team Description
 * Published Software
 
 ---
 ## An evolutionary approach to construction of a software development environment for massively-parallel heterogeneous systems
-* Teams Description
+* Team Description
 * Published Software
 
 
 ---
 ## Software development for post petascale supercomputing --- Modularity for Supercomputing
-* Teams Description
+* Team Description
 * Published Software
 
 ---
 ## Development of Scalable Communication Library with Technologies for Memory Saving and Runtime Optimization
-* Teams Description
+* Team Description
 * Published Software
 
 ---
 ## Advanced Computing and Optimization Infrastructure for Extremely Large-Scale Graphs on Post Peta-Scale Supercomputers
-* Teams Description
+* Team Description
 * Published Software
 
 ---
 ## Software Technology that Deals with Deeper Memory Hierarchy in Post-petascale Era
-* Teams Description
+* Team Description
 * Published Software
 
 ---
 ## Power Management Framework for Post-Petascale Supercomputers
-* Teams Description
+* Team Description
 * Published Software
 
 ---
 ## Framework for Administration of Social Simulations on Massively Parallel Computers
-* Teams Description
+* Team Description
 * Published Software
 
 ---
