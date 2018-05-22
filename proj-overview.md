@@ -19,6 +19,8 @@ Under the framework of the "Software for Exascale Computing (SPPEXA)" program wh
 
 ## List of Research Teams (in order of starting period)
 
+![OVERVIEW]({{ site.baseurl }}/img/PP-CREST-overview.png)
+
 * Development of an Eigen-Supercomputing Engine using a Post-Petascale Hierarchical Model (Research Director:  Tetsuya Sakurai / Professor, University of Tsukuba) [2010～2015] ★
 * System Software for Post Petascale Data Intensive Science (Research Director: Osamu Tatebe / Professor, University of Tsukuba) [2010～2015]
 * ppOpen-HPC: Open Source Infrastructure for Development and Execution of Large-Scale Scientific Applications on Post-Peta-Scale Supercomputers with Automatic Tuning (AT) (Research Director:  Kengo Nakajima / Professor, The University of Tokyo) [2010～2015]★
@@ -37,11 +39,8 @@ Under the framework of the "Software for Exascale Computing (SPPEXA)" program wh
 
 Note: Project Marked with ★ supported by SPPEXA (extended to 2017)
 
-Link [List of teams](https://post-peta-crest.github.io/list_of_teams.md).
-
 ## Research Supervisor
 
 Mitsuhisa Sato, Deputy Project Leader and Team Leader of Architecture Development Team / FLAGSHIP 2020 project, Deputy Director and Team Leader of Programming Environment Research Team,
 RIKEN Center for Computational Science
 
-![OVERVIEW]({{ site.baseurl }}/img/PP-CREST-overview.png)
