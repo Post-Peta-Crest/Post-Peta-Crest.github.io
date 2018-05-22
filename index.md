@@ -9,7 +9,6 @@ JST CREST Post-Petascale software project aimed to establish software technologi
 
 # Teams and Software
 
-
 ## Development of an Eigen-Supercomputing Engine using a Post-Petascale Hierarchical Model
 * PI: Tetsuya Sakurai / Professor, University of Tsukuba
 * Period: [2010～2015] ★
