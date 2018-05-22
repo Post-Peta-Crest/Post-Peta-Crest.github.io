@@ -77,9 +77,9 @@ JST CREST Post-Petascale software project aimed to establish software technologi
 
 ---
 ## Research and Development on Unified Environment of Accelerated Computing and Interconnection for Post-Petascale Era
-* [Team Description](https://post-peta-crest.github.io/boku/) [PDF](https://post-peta-crest.github.io/boku/)
-* Published Software
- * [XcalableACC specification and compiler](https://github.com/XcalableMP/XACC-Specification)
+* [Team Description](https://post-peta-crest.github.io/boku/) 
+- Published Software
+ - [XcalableACC specification and compiler](https://github.com/XcalableMP/XACC-Specification)
 
 ---
 
