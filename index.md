@@ -3,25 +3,28 @@ title: Development of System Software Technologies
        for post-Peta Scale High Performance Computing
 ---
 
-# Project Overview 
+JST CREST Post-Petascale software project aimed to establish software technologies to explore extreme performance computing beyond peta-scale computing, on the road to exascale computing. Several research and development has been conducted for system software enabling us to exploit maximum efficiency and reliability from high performance computing systems composed of general purpose many-core processors as well as accelerators including GPGPU from the second half of 2010's to 2020’s. The research topics covers from system software such as programming languages, compilers, runtime systems, operating systems, communication middleware, and file systems to application development support software and ultra-large data processing software. As well as conventional technologies for large-scale numerical computation, the project was also able to address the storage technology required for big data processing, the complexity of memory hierarchy, and the power problem. Exploration for the direction of future high performance computing is also an urgent and significant agenda in our research area.
 
-## Outline of Research Area
+* See also [Project Overview]({{ site.baseurl }}/proj-overview).
 
-The research area aims at developing system software technologies as well as related systems to be used for high performance computing in the post generations of the Japanese national supercomputer K. Several research and development has been conducted for system software enabling us to exploit maximum efficiency and reliability from supercomputers composed of general purpose many-core processors as well as accelerators including GPGPU form the second half of 2010's to 2020’s.
+# Teams and Software
 
-In addition to the system software such as programming languages, compilers, runtime systems, operation systems, communication middleware, and file systems, application development support systems and ultra-large data processing systems are the targets for research and development. The 14 projects were adopted from 2010 to 2012, and the period of each project is five and half years. The total budget from 2010 to 2017 is about 60M USD.
 
-The projects in post-peta CREST are expected to play a role bridging to post-petascale and exascale computing through system software.
+## Development of an Eigen-Supercomputing Engine using a Post-Petascale Hierarchical Model
+* PI: Tetsuya Sakurai / Professor, University of Tsukuba
+* Period: [2010～2015] ★
+* Teams highlight 
+* Software
 
-## Collaboration with SPPEXA project
+## System Software for Post Petascale Data Intensive Science 
+* PI: Osamu Tatebe / Professor, University of Tsukuba
+* Period: [2010～2015]
+* Teams highlight 
+* Software
 
-Under the framework of the "Software for Exascale Computing (SPPEXA)" program which is implemented by DFG (Germany), JST (Japan) and ANR(France) agreed to support trilateral projects for high performance computing. Some of post-peta CREST projects have been awarded as a SPPEXA partner supported by JST. 
 
-## List of Research Teams (in order of starting period)
+## ppOpen-HPC: Open Source Infrastructure for Development and Execution of Large-Scale Scientific Applications on Post-Peta-Scale Supercomputers with Automatic Tuning (AT) (Research Director:  Kengo Nakajima / Professor, The University of Tokyo) [2010～2015]★
 
-* Development of an Eigen-Supercomputing Engine using a Post-Petascale Hierarchical Model (Research Director:  Tetsuya Sakurai / Professor, University of Tsukuba) [2010～2015] ★
-* System Software for Post Petascale Data Intensive Science (Research Director: Osamu Tatebe / Professor, University of Tsukuba) [2010～2015]
-* ppOpen-HPC: Open Source Infrastructure for Development and Execution of Large-Scale Scientific Applications on Post-Peta-Scale Supercomputers with Automatic Tuning (AT) (Research Director:  Kengo Nakajima / Professor, The University of Tokyo) [2010～2015]★
 * Parallel System Software for Multi-core and Many-core (Research Director: Atsushi Hori / Researcher, RIKEN) [2010～2015]
 * Highly Productive, High Performance Application Frameworks for Post Petascale Computing (Research Director: Naoya Maruyama / Research Team Leader, RIKEN) [2010～2015]★
 * Development of a Numerical Library based on Hierarchical Domain Decomposition for Post Petascale Simulation (Research Director: Ryuji Shioya / Professor, Toyo University) [2011～2016]★
@@ -37,11 +40,3 @@ Under the framework of the "Software for Exascale Computing (SPPEXA)" program wh
 
 Note: Project Marked with ★ supported by SPPEXA (extended to 2017)
 
-Link [List of teams](https://post-peta-crest.github.io/list_of_teams.md).
-
-## Research Supervisor
-
-Mitsuhisa Sato, Deputy Project Leader and Team Leader of Architecture Development Team / FLAGSHIP 2020 project, Deputy Director and Team Leader of Programming Environment Research Team,
-RIKEN Center for Computational Science
-
-![OVERVIEW]({{ site.baseurl }}/img/PP-CREST-overview.png)
