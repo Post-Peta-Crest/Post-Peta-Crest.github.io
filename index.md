@@ -77,8 +77,10 @@ JST CREST Post-Petascale software project aimed to establish software technologi
 
 ---
 ## Power Management Framework for Post-Petascale Supercomputers
-* [Team Description](https://post-peta-crest.github.io/ppomp/) 
+* [Team Description](https://post-peta-crest.github.io/pompp/)
 * Published Software
+
+  - [Power-Aware Resource Manager](https://github.com/pompp) Providing a common resource management tool for power-constrained HPC systems
 
 ---
 ## Framework for Administration of Social Simulations on Massively Parallel Computers
