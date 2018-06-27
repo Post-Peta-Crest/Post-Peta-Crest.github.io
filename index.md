@@ -26,8 +26,10 @@ JST CREST Post-Petascale software project aimed to establish software technologi
 
 ---
 ## Parallel System Software for Multi-core and Many-core
-* Team Description
+* [Team Description](https://post-peta-crest.github.io/pip)
 * Published Software
+
+  - [PiP](https://github.com/RIKEN-SysSoft): Process-in-Process (PiP)
 
 ---
 ## Highly Productive, High Performance Application Frameworks for Post Petascale Computing
