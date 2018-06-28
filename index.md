@@ -90,7 +90,7 @@ JST CREST Post-Petascale software project aimed to establish software technologi
 * Published Software
 
   - [OACIS](https://github.com/crest-cassia/oacis)
-  / [(mirror@RIKEN)](http://www.aics.riken.jp/jp/k/aics-software/)
+  / [(mirror@RIKEN)](http://www.r-ccs.riken.jp/jp/k/software/)
   - [CARAVAN](https://github.com/crest-cassia/caravan)
   - [X10 libraries](http://x10-lang.org/)
   - [XASDI](http://x10-lang.org/xasdi/) 
