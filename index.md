@@ -86,8 +86,17 @@ JST CREST Post-Petascale software project aimed to establish software technologi
 
 ---
 ## Framework for Administration of Social Simulations on Massively Parallel Computers
-* Team Description
+* [Team Description](https://post-peta-crest.github.io/cassia/)
 * Published Software
+
+  - [OACIS](https://github.com/crest-cassia/oacis)
+  / [(mirror@RIKEN)](http://www.aics.riken.jp/jp/k/aics-software/)
+  - [CARAVAN](https://github.com/crest-cassia/caravan)
+  - [X10 libraries](http://x10-lang.org/)
+  - [XASDI](http://x10-lang.org/xasdi/) 
+  - [Plham](https://hub.docker.com/r/oacis/oacis_jupyter_plham/)
+  - [CrowdWalk](https://github.com/crest-cassia/CrowdWalk)
+  - [ADVENTURE Mates](http://adventure.sys.t.u-tokyo.ac.jp/jp/download/Mates.html)
 
 ---
 ## Research and Development on Unified Environment of Accelerated Computing and Interconnection for Post-Petascale Era
